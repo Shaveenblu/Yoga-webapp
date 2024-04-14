@@ -1,0 +1,22 @@
+{
+
+    "name": "Your assistant",
+    "email": "Your assistant",	
+    "role": "Instructor",
+    "gender": "Male",
+    "address": "no-mail",
+    "phone": "no-phone",
+    "about": "",
+    "skills": null
+},
+{
+
+    "name": "Ema",
+    "email": "ema@mail.com",	
+    "role": "Instructor",
+    "gender": "Female",
+    "address": "Los angeles",
+    "phone": "77287984",
+    "about": "",
+    "skills": null
+}

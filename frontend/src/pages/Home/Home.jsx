@@ -1,0 +1,18 @@
+import React from 'react'
+import HeroContainer from './Hero/HeroContainer'
+import Gallery from './Gallery/Gallery'
+import  PopularClasses  from './PopularClasses/PopularClasses'
+import PopularTeacher from './PopularTeacher/PopularTeacher'
+
+export default function Home() {
+  return (
+    <section>
+      <HeroContainer/>
+      <div className='max-w-screen-xl mx-auto'>
+        <Gallery/>
+        <PopularClasses/>
+        <PopularTeacher/>
+      </div>
+    </section>
+  )
+}
