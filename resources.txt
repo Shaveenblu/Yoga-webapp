@@ -1,0 +1,34 @@
+npm init -y
+npm install express 24:15
+node index.js 27:10
+nodemon 29:05
+nodemon start 30:25
+MongoDB 34:00
+install MongoDB 43:00
+MogoDB code: 44:00
+password setup 47:30
+PAssword protection 49:00
+USername change DB 52:00
+Add data 54:00
+MongoDB CRUD 57:00
+1:02:00
+1:03:00 POSTMAN
+1:16:00
+1:18:30
+1:21:10
+1:24:20
+1:26:00
+2:30:00 Stripe
+3:20:00 JWT token
+3:24:00 require random bits
+
+2nd video
+MUI
+58:00
+1:41:00 swiper
+1:44:00
+2:10:00 axios
+3:08:00 icons
+
+1hr video
+03:09 Form
